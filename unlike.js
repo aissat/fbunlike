@@ -10,6 +10,6 @@ function unlike(){
     }
     console.log('Done :), removed '+ ao.length + 'shiiit');
 
-    window.location.reload();
+    // window.location.reload();
 
 }
